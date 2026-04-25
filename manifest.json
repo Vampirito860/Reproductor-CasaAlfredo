@@ -1,0 +1,15 @@
+{
+  "name": "Media Studio Pro Max",
+  "short_name": "MediaStudio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
